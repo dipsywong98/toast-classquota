@@ -1,7 +1,0 @@
-Mirror in progress since Thu, 18 Jan 2024 16:51:54 .. please wait!
-httrack https://w5.ab.ust.hk/wcq/cgi-bin/2320/ -O website/classquota -v -s0 -#p -#L1000000000000 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=2115
-UID=1001
-GID=1001
-START=1705596714
