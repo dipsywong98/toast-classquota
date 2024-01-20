@@ -1,7 +1,7 @@
-Mirror in progress since Fri, 19 Jan 2024 18:54:30 .. please wait!
-httrack http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC2 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 
+Mirror in progress since Sat, 20 Jan 2024 01:44:34 .. please wait!
+httrack http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC2 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 http://luanboshiysclub.com/ -O website/luanboshiysclub -v -s0 -#p -#L1000000000000 -iC1 
 To pause the engine: create an empty file named 'hts-stop.lock'
-PID=2186
+PID=2240
 UID=1001
 GID=1001
-START=1705690470
+START=1705715074
